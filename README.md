@@ -1,6 +1,6 @@
 * [Download](https://curseforge.com/minecraft/mc-mods/reforcepack)
 
-This mod provides a chunk loader block that keeps a chunk loaded using Vanilla's /forceload logic under the hood and provides the added benefit of continuing to supply loaded chunks with random block ticks. This means that your grass and mushrooms will continue to spread and crops will continue to grow while you're away. The blocks are lightweight and don't use any tile entities.
+This simply loads a resource pack from the mod's config folder.
 
 ## Feature Request Guidelines
 
