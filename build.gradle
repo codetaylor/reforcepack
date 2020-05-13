@@ -29,8 +29,6 @@ sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = co
 
 println()
 println("-------------------------------------------------------------")
-println("- Boilerplate 1.14.4-1.0.0")
-println("-")
 println("- Mod Id: " + project.ext.modid)
 println("- Version: " + version)
 println("- Forge Version: " + project.ext.forge.version)
