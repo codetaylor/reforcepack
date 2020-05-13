@@ -1,6 +1,6 @@
 ext {
 
-  modid = 'packt'
+  modid = 'reforcepack'
 
   forge = [
     version: '1.14.4-28.2.11'
